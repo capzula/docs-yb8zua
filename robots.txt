@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-zywoem.mantra88eur.cyou/sitemap.xml
